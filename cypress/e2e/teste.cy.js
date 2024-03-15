@@ -3,3 +3,5 @@ describe('Abrir o Google', () => {
     cy.visit('https://google.com')
   })
 })
+
+//npm run cypress:open
