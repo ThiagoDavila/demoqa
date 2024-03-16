@@ -6,3 +6,5 @@ module.exports = defineConfig({
     testIsolation: false
   },
 });
+
+//npm run cypress:open

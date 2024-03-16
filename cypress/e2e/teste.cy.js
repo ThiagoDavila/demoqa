@@ -4,4 +4,3 @@ describe('Abrir o Google', () => {
   })
 })
 
-//npm run cypress:open
